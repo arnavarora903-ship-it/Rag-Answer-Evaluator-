@@ -21,3 +21,9 @@ Python, LangChain, Chroma, FAISS, Streamlit
 
 ## Status
 Completed and fully functional
+
+## Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
